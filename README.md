@@ -33,3 +33,8 @@
 [node网易云音乐文档](https://binaryify.github.io/NeteaseCloudMusicApi/#/ "node网易云音乐文档")
 
 [api收录](https://api.imjad.cn/ "api收录")
+
+### 科学上网
+[puredns](https://puredns.cn/ "puredns")
+
+[it54VPN](https://www.it54.net/user "it54VPN")
