@@ -16,4 +16,4 @@
 
 [showdocapi文档编写](https://www.showdoc.cc/web/#/item/index "showdocapi文档编写")
 
-[ocr识别pdf文档](https://zhcn.109876543210.com/ "ocr识别pdf文档")
+[node网易云音乐文档](https://binaryify.github.io/NeteaseCloudMusicApi/#/ "node网易云音乐文档")
