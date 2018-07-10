@@ -12,6 +12,7 @@
 
 [showdocapi文档编写](https://www.showdoc.cc/web/#/item/index "showdocapi文档编写")
 
+
 ### 在线工具
 
 [ocr识别pdf文档](https://zhcn.109876543210.com/ "ocr识别pdf文档")
@@ -33,6 +34,8 @@
 [node网易云音乐文档](https://binaryify.github.io/NeteaseCloudMusicApi/#/ "node网易云音乐文档")
 
 [api收录](https://api.imjad.cn/ "api收录")
+
+[api大全](https://open.lylares.com/doc/#38)
 
 ### 科学上网
 [puredns](https://puredns.cn/ "puredns")
