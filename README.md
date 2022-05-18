@@ -17,13 +17,14 @@
 
 ## 论坛社区
 
-- [v2ex](http://www.v2ex.com/)
-- [掘金](https://juejin.im/)
-- [里客云资源分享](http://likeyunba.com/)
+- ![](https://www.google.com/s2/favicons?sz=16&domain=v2ex.com) [v2ex](http://www.v2ex.com/)
+- ![](https://www.google.com/s2/favicons?sz=16&domain=juejin.im) [掘金](https://juejin.im/)
+- ![](https://www.google.com/s2/favicons?sz=16&domain=likeyunba.com) [里客云资源分享](http://likeyunba.com/)
 
-- [freebuf - 网络安全论坛](https://www.freebuf.com/articles/web)
+- ![](https://www.google.com/s2/favicons?sz=16&domain=freebuf.com) [freebuf - 网络安全论坛](https://www.freebuf.com/articles/web)
+
 ## 外国网盘下载
-- [vvload](https://vvload.com/)
+- ![](https://www.google.com/s2/favicons?sz=16&domain=vvload.com) [vvload](https://vvload.com/)
 
 ## 临时邮箱
 - [查错](http://24mail.chacuo.net/)
@@ -143,6 +144,7 @@
 
 ## PPT资源
 - [优品PPT-PPT模板免费下载](https://www.ypppt.com/)
+
 ## 图片处理
 
 - [picdiet 图片压缩](https://www.picdiet.com/zh-cn)
@@ -154,6 +156,7 @@
 - [waifu2x图片无损放大](http://waifu2x.udp.jp/)
 - [图片无损放大](https://bigjpg.com/)
 - [在线批量裁剪图片工具](https://www.smartresize.com/zh-cn)
+
 ## 人物识别
 - [pornstarbyface](https://pornstarbyface.com/)
 - [xslist](https://xslist.org/zh)
@@ -162,6 +165,7 @@
 - [好维特](http://www.haoweichi.com/Index/)
 - [fakenamegenerator](https://www.fakenamegenerator.com/)
 - [fakeaddressgenerator](https://www.fakeaddressgenerator.com/)
+
 ## 配色
 - [css 配色](https://www.materialpalette.com/)
 - [colorhunt 配色选择](https://colorhunt.co/)
@@ -171,10 +175,11 @@
 - [随机颜色配色](http://color.aurlien.net/)
 - [中国色](http://zhongguose.com/)
 - [渐变色生成](https://gradientlab.space/)
-## 视频处理
 
+## 视频处理
 - [online-video-cutter 视频编辑](https://online-video-cutter.com/cn/)
 - [apowersoft - 视频压缩](https://www.apowersoft.cn/compress-video-online)
+
 ## 格式转换
 
 - [各种格式文件转换 1](https://www.aconvert.com/cn/)
@@ -237,6 +242,7 @@
 - [devui 一款开源免费的angular企业中后台产品前端的通用解决方案](https://devui.design/design-cn/start)
 - [at-ui 一款Vue轻量级、模块化的前端 UI 组件库](https://at-ui.github.io/at-ui/#/zh)
 - [nutui 一套京东风格的轻量级移动端Vue组件库](https://nutui.jd.com/)
+
 ## js 框架
 - [angular](https://angular.cn/)
 - [vuejs](https://cn.vuejs.org/v2/guide/)
@@ -246,6 +252,7 @@
 - [express](https://www.expressjs.com.cn/)
 - [egg](https://eggjs.org/zh-cn/)
 - [Weex - 一个可以使用现代化的 Web 技术开发高性能原生应用的框架](https://weex.apache.org/zh/)
+
 ## 图片素材
 
 - [pexels 免费商用图](https://www.pexels.com/zh-cn/)
@@ -402,6 +409,7 @@
 - [微信小程序官方文档](https://developers.weixin.qq.com/miniprogram/dev/api/)
 - [油猴脚本文档](https://jixunmoe.github.io/gmDevBook/)
 - [aframe中文文档](https://www.techbrood.com/aframe/core?p=globals)
+
 ## 资源
 
 - [jojodl - bt種子和磁力連結](https://jojodl.pw/zh/)
@@ -445,6 +453,7 @@
 - [拷贝兔 - 跨平台文本.文件传输工具](https://cp.anyknew.com/)
 - [PasteMe - 在线文件传输工具](https://paste.liumingye.cn/)
 - [单词打字练习](https://qwerty.liumingye.cn/)
+
 ## 开发插件收藏
 - [西瓜播放器 - 带解析器、能节省流量的HTML5视频播放器](https://v2.h5player.bytedance.com/)
 - [Chimee - h5 播放器，支持 mp4、m3u8、flv 等多种格式](http://chimee.org/)
@@ -462,11 +471,11 @@
 
 - [Axios 一个基于 promise 的 HTTP 库](http://www.axios-js.com/zh-cn/docs/)
 - [Superagent 轻量的nodejs端HTTP模块](https://github.com/visionmedia/superagent)
-- [flyio 一个支持所有JavaScript运行环境的基于Promise的、支持请求转发、强大的http请求库](https://wendux.github.io/dist/#/doc/flyio/readme)
+- [flyio http请求库](https://wendux.github.io/dist/#/doc/flyio/readme)
 
--[animejs 轻量的JavaScript 动画库](https://www.animejs.cn/)
--[greensock 一个JavaScript动画库，用于创建高性能、零依赖、跨浏览器动画](https://greensock.com/docs/)
--[Scroll Reveal 零依赖，为 web 和移动浏览器提供了简单的滚动动画，以动画的方式显示滚动中的内容](https://scrollrevealjs.org/)
+- [animejs 轻量的JavaScript 动画库](https://www.animejs.cn/)
+- [greensock 一个JavaScript动画库，用于创建高性能、零依赖、跨浏览器动画](https://greensock.com/docs/)
+- [Scroll Reveal 零依赖，为 web 和移动浏览器提供了简单的滚动动画，以动画的方式显示滚动中的内容](https://scrollrevealjs.org/)
 -[Kute.js 一个强大高性能且可扩展的原生JavaScript动画引擎，具有跨浏览器动画的基本功能](http://thednp.github.io/kute.js/)
 -[Typed.js 一个轻松实现打字效果的js插件](http://mattboldt.github.io/typed.js/)
 -[fullPage.js 一个可轻易创建全屏滚动网站的js滚动动画库, 兼容性无可替代](https://github.com/alvarotrigo/fullPage.js/tree/master/lang/chinese)
