@@ -1,5 +1,4 @@
 
-[GitHub](https://github.com/wlor0623/wlor0623.github.io.git)
 
 # 网站收藏
 
@@ -15,8 +14,35 @@
 - [小图床](https://tool.liumingye.cn/tuchuang/) ![](https://ae01.alicdn.com/kf/H1fd02406fff34fca995994fc17d07e49z.gif)
 - [图床测评](https://bangumi.tv/group/topic/343056)
 
-## 论坛社区
+## 开源项目
+- [tdesign 腾讯企业级UI框架](https://tdesign.tencent.com/)
 
+### 视频
+- [plyr视频播放器](https://github.com/sampotts/plyr) ![](https://img.shields.io/github/stars/sampotts/plyr?color=green&style=social)
+
+## 文字
+
+- [wantwords 万词王同义词查询 ](https://wantwords.net/)
+
+## 3D模型
+
+- ![](https://www.google.com/s2/favicons?sz=16&domain=blenderco.cn) [blenderco布的](http://blenderco.cn/)
+- ![](https://www.google.com/s2/favicons?sz=16&domain=626cg.com) [26CG资源站](https://www.626cg.com/)
+- ![](https://www.google.com/s2/favicons?sz=16&domain=www.tuto-v.com) [tuto-v](https://www.tuto-v.com/)
+- ![](https://www.google.com/s2/favicons?sz=16&domain=www.gfxcamp.com) [gfxcamp](http://www.gfxcamp.com/)
+- ![](https://www.google.com/s2/favicons?sz=16&domain=blendermarket.com) [blendermarket](https://blendermarket.com/)
+- ![](https://www.google.com/s2/favicons?sz=16&domain=www.up58.net) [up58.net](https://www.up58.net/)
+- ![](https://www.google.com/s2/favicons?sz=16&domain=anyconv.com) [MAX转OBJ](https://anyconv.com/tw/max-zhuan-obj/)
+- ![](https://www.google.com/s2/favicons?sz=16&domain=blenderkit.com) [blenderkit](https://www.blenderkit.com/asset-gallery?query=category_subtree:model%20order:-created)
+- ![](https://www.google.com/s2/favicons?sz=16&domain=blendswap.com) [blendswap](https://blendswap.com/blends)
+- ![](https://www.google.com/s2/favicons?sz=16&domain=blendermx.com) [Blender模型库](https://www.blendermx.com/)
+- ![](https://www.google.com/s2/favicons?sz=16&domain=lookae.com) [lookae](https://www.lookae.com/)
+
+
+## 论坛博客
+- ![](https://www.google.com/s2/favicons?sz=16&domain=www.zhangxinxu.com)  [张鑫旭](https://www.zhangxinxu.com/wordpress/)
+- ![](https://www.google.com/s2/favicons?sz=16&domain=www.52im.net)  [52im.net](http://www.52im.net/)
+- ![](https://www.google.com/s2/favicons?sz=16&domain=www.likecs.com)  [likecs](https://www.likecs.com/)
 - ![](https://www.google.com/s2/favicons?sz=16&domain=v2ex.com) [v2ex](http://www.v2ex.com/)
 - ![](https://www.google.com/s2/favicons?sz=16&domain=juejin.im) [掘金](https://juejin.im/)
 - ![](https://www.google.com/s2/favicons?sz=16&domain=likeyunba.com) [里客云资源分享](http://likeyunba.com/)
@@ -37,11 +63,13 @@
 - [md5 解密](https://www.somd5.com/)
 - [各种加密 1](http://emn178.github.io/online-tools/md5.html)
 - [各种加密 2](http://encode.chahuo.com/)
+- [LX-OB-Decrypt](http://cnlans.com/lx/tools)
 
 ## json
-
+- [json 格式化1 jsonformatter](https://jsonformatter.org/)
+- [json 格式化2 bejsonvpn](http://www.bejson.com/)
+- [json 格式化3 jsont.run](https://www.jsont.run/)
 - [json 格式化验证](https://www.json.cn/#)
-- [json 格式化](http://www.bejson.com/)
 
 ## 域名价格对比
 
@@ -60,6 +88,7 @@
 - [搜图导航](https://www.91sotu.com/)
 - [考拉新媒体导航](https://www.kaolamedia.com/)
 - [聚BT](https://jubt.cf/cn/index.html)
+
 ## 代理
 
 - [站大爷 - 代理IP,免费代理IP,最新代理IP](https://www.zdaye.com/ShortProxy.html)
@@ -72,10 +101,11 @@
 - [书栈网 - IT书籍免费下载在线阅读](https://www.bookstack.cn/)
 - [鸠摩搜书 - 电子书搜索引擎](https://www.jiumodiary.com/)
 - [熊猫搜书 - 电子书聚合搜索](https://xmsoushu.com/)
-## 动漫
 
+## 动漫
+- [风车动漫](https://www.dm530p.me/)
 - [逸轩动漫](http://www.yxdm.me/)
-- [bimiacg - M站,bimibimi,哔咪动漫,哔咪哔咪,m站官网,动漫,弹幕视频,好看动漫,新番,日本最新动漫,动漫下载,bimiacg](http://www.bimiacg.com/)
+- [bimiacg - M站](http://www.bimiacg.com/)
 - [动漫岛](http://www.dmd8.com/)
 
 ## 思维导图
@@ -93,16 +123,12 @@
 - [短视频数据](https://toobigdata.com/)
 - [腾讯验证码](https://ssl.captcha.qq.com/template/pc_qq_captcha.html?sp_width=330&sp_height=250)
 -  [showdoc 文档生成](https://www.showdoc.cc/)
-
 - [cloudflare 代码托管](https://workers.cloudflare.com/)
 - [喜欢的 ui 动画效果](https://www.ui.cn/detail/279081.html)
-
 - [艾瑞数据 - 互联网数据,APP指数,PC指数,影视指数,艾瑞指数](https://data.iresearch.com.cn/Home.shtml)
 - [hex/rgb/rgba在线颜色色号转换工具](http://gavin-yyc.github.io/colorconvert/)
 - [千教网 - 小学初中高中学习课件、教案、学案、说课稿](http://www.well1000.cn/)
 - [网课题库查题答案](https://wk.wanshiwu.asia/#/)
-
-- 
 - [15201 - AI伪原创工具 在线智能内容分析 专注于智能化写作](https://www.15201.com/)
 - [virustotal文件在线查毒](https://www.virustotal.com/gui/)
 
@@ -111,7 +137,6 @@
 - [字体识别](http://www.qiuziti.com/)
 - [视频在线编辑(哔哩哔哩)](https://bilibili.clipchamp.com/)
 - [夜幕爬虫交流论坛](https://bbs.nightteam.cn/forum-1.htm)
-
 - [api 库](https://api.uomg.com/)
 - [免费 api 接口](https://api.ooopn.com/)
 - [在线运行 js](http://js.jsrun.pro/)
@@ -147,6 +172,8 @@
 
 ## 图片处理
 
+- [gfpgan 图片在线修复1](https://replicate.com/tencentarc/gfpgan)
+- [gfpgan 图片在线修复2](https://huggingface.co/spaces/akhaliq/GFPGAN)
 - [picdiet 图片压缩](https://www.picdiet.com/zh-cn)
 - [tinypng 图片压缩](https://tinypng.com/)
 - [img.top 图片压缩](https://img.top/)
@@ -156,6 +183,7 @@
 - [waifu2x图片无损放大](http://waifu2x.udp.jp/)
 - [图片无损放大](https://bigjpg.com/)
 - [在线批量裁剪图片工具](https://www.smartresize.com/zh-cn)
+- [gif编辑](https://ezgif.com/optimize)
 
 ## 人物识别
 - [pornstarbyface](https://pornstarbyface.com/)
@@ -182,10 +210,10 @@
 
 ## 格式转换
 
-- [各种格式文件转换 1](https://www.aconvert.com/cn/)
-- [各种格式文件转换 2](https://cn.office-converter.com/)
-- [各种格式文件转换 3](http://www.alltoall.net/)
-- [各种格式文件转换 4](https://convertio.co/zh/)
+- [各种格式文件转换 aconvert](https://www.aconvert.com/cn/)
+- [各种格式文件转换 converter](https://cn.office-converter.com/)
+- [各种格式文件转换 alltoall](http://www.alltoall.net/)
+- [各种格式文件转换 convertio](https://convertio.co/zh/)
 - [PDF处理1](https://lightpdf.cn/)
 - [PDF处理2](https://smallpdf.com/cn)
 - [PDF派 - pdf处理3](https://www.pdfpai.com/))
@@ -205,6 +233,8 @@
 
 ## ip 爬虫代理 vpn
 
+- [白月光](https://ss.cn88.net/#/register?code=E48Bpgbq)
+- [新华云](https://newhua99.com/#/register?code=ubUw2Qu5)
 - [搬瓦gong](https://bwh88.net/)
 - [几鸡](https://ji-bc.pw/user/shop)
 - [讯代理](http://www.xdaili.cn/buyproxy)
@@ -223,7 +253,20 @@
 - [mpvue](http://mpvue.com/)
 - [Electron](https://www.electronjs.org/docs)
 
+## 云主机
+
+- [悍铭1元云主机](https://www.hanming.com/host/buy.html?pId=1690667855429949&lineid=10&indeIp=0&system_type=1)
+## 短信轰炸
+### 语音
+- [鼎酬资本](http://www.shdaikuan.com/)
+
+## lottie
+
+- [lottiefiles](https://lottiefiles.com/featured)
+
+
 ## UI 框架
+- [arco.design](https://arco.design/vue/docs/start)
 - [pile.js React移动端框架](https://github.com/didi/pile.js)
 - [lulu ui - 面向PC，非常适合对外用户web网站的UI框架](https://l-ui.com/content/about/design.html)
 
@@ -254,7 +297,8 @@
 - [Weex - 一个可以使用现代化的 Web 技术开发高性能原生应用的框架](https://weex.apache.org/zh/)
 
 ## 图片素材
-
+- [搜图神器](http://www.soutushenqi.com/home/)
+- [png素材](https://www.pixelsquid.com/collections)
 - [pexels 免费商用图](https://www.pexels.com/zh-cn/)
 - [logo 下载](https://worldvectorlogo.com/)
 - [png 图片下载](http://pngimg.com/search)
@@ -317,7 +361,7 @@
 - [codelf](https://unbug.github.io/codelf/)
 
 ## mac 软件
-
+- [digit77](https://www.digit77.com/)
 - [macwk](https://www.macwk.com/soft/all/p1)
 - [osxwin](https://www.osxwin.com/c/system/clear)
 - [naodai](https://www.naodai.org/)
@@ -430,6 +474,7 @@
 - [chrome插件下载(crx格式)](https://crxdl.com/)
 - [iData-论文知识检索](https://www.cn-ki.net/)
 - [trace动漫截图识别引擎](https://trace.moe/)
+
 ## 漫画
 - [seliseli](http://seliseli.xyz/)
 - [acg饭团](https://acgfantuan.com/)
@@ -476,23 +521,23 @@
 - [animejs 轻量的JavaScript 动画库](https://www.animejs.cn/)
 - [greensock 一个JavaScript动画库，用于创建高性能、零依赖、跨浏览器动画](https://greensock.com/docs/)
 - [Scroll Reveal 零依赖，为 web 和移动浏览器提供了简单的滚动动画，以动画的方式显示滚动中的内容](https://scrollrevealjs.org/)
--[Kute.js 一个强大高性能且可扩展的原生JavaScript动画引擎，具有跨浏览器动画的基本功能](http://thednp.github.io/kute.js/)
--[Typed.js 一个轻松实现打字效果的js插件](http://mattboldt.github.io/typed.js/)
--[fullPage.js 一个可轻易创建全屏滚动网站的js滚动动画库, 兼容性无可替代](https://github.com/alvarotrigo/fullPage.js/tree/master/lang/chinese)
--[KeyboardJS 在浏览器中使用的库（与node.js兼容）.它使开发人员可以轻松设置键绑定和使用组合键来设置复杂的绑定.](https://github.com/RobertWHurst/KeyboardJS)
--[sortablejs 功能强大的JavaScript 拖拽库](http://www.sortablejs.com/)
--[html2canvas 使用js开发的浏览器网页截图工具](http://html2canvas.hertzen.com/documentation)
--[pica 一个在浏览器中调整图像大小，而不会出现像素失真，处理速度非常快的图片处理库](https://github.com/nodeca/pica)
--[lena.js 轻量级的可以给你图像加各种滤镜的js库](https://github.com/davidsonfellipe/lena.js)
--[Compressor 使用本地canvas.toBlob API进行图像有损压缩的js库](https://github.com/fengyuanchen/compressorjs)
--[fabric.js 易于使用的基于HTML5 canvas元素的图片编辑器](https://github.com/fabricjs/fabric.js)
--[merge-images 将多张图片合并成一张图的js插件](https://github.com/lukechilds/merge-images)
--[cropperjs 强大的图片裁切库, 支持灵活的图片裁切方式](https://github.com/fengyuanchen/cropperjs)
--[grade 基于图像中的前2种主要颜色生成互补渐变背景的库](https://github.com/benhowdle89/grade)
--[validator 表单校验](https://github.com/validatorjs/validator.js)
--[validate 表单校验](https://github.com/ansman/validate.js)
--[X-Spreadsheet 基于web的简单易用的表格插件](https://hondrytravis.github.io/x-spreadsheet-doc/guide/)
--[Luckysheet 纯前端类似excel的在线表格](https://github.com/mengshukeji/Luckysheet/blob/master/README-zh.md)
+- [Kute.js 一个强大高性能且可扩展的原生JavaScript动画引擎，具有跨浏览器动画的基本功能](http://thednp.github.io/kute.js/)
+- [Typed.js 一个轻松实现打字效果的js插件](http://mattboldt.github.io/typed.js/)
+- [fullPage.js 一个可轻易创建全屏滚动网站的js滚动动画库, 兼容性无可替代](https://github.com/alvarotrigo/fullPage.js/tree/master/lang/chinese)
+- [KeyboardJS 在浏览器中使用的库（与node.js兼容）.它使开发人员可以轻松设置键绑定和使用组合键来设置复杂的绑定.](https://github.com/RobertWHurst/KeyboardJS)
+- [sortablejs 功能强大的JavaScript 拖拽库](http://www.sortablejs.com/)
+- [html2canvas 使用js开发的浏览器网页截图工具](http://html2canvas.hertzen.com/documentation)
+- [pica 一个在浏览器中调整图像大小，而不会出现像素失真，处理速度非常快的图片处理库](https://github.com/nodeca/pica)
+- [lena.js 轻量级的可以给你图像加各种滤镜的js库](https://github.com/davidsonfellipe/lena.js)
+- [Compressor 使用本地canvas.toBlob API进行图像有损压缩的js库](https://github.com/fengyuanchen/compressorjs)
+- [fabric.js 易于使用的基于HTML5 canvas元素的图片编辑器](https://github.com/fabricjs/fabric.js)
+- [merge-images 将多张图片合并成一张图的js插件](https://github.com/lukechilds/merge-images)
+- [cropperjs 强大的图片裁切库, 支持灵活的图片裁切方式](https://github.com/fengyuanchen/cropperjs)
+- [grade 基于图像中的前2种主要颜色生成互补渐变背景的库](https://github.com/benhowdle89/grade)
+- [validator 表单校验](https://github.com/validatorjs/validator.js)
+- [validate 表单校验](https://github.com/ansman/validate.js)
+- [X-Spreadsheet 基于web的简单易用的表格插件](https://hondrytravis.github.io/x-spreadsheet-doc/guide/)
+- [Luckysheet 纯前端类似excel的在线表格](https://github.com/mengshukeji/Luckysheet/blob/master/README-zh.md)
 - [spritejs 跨平台的高性能图形系统，它能够支持web、node、桌面应用和小程序的图形绘制和实现各种动画效果。](https://spritejs.org/#/zh-cn/index)
 - [antv 蚂蚁集团全新一代数据可视化解决方案](https://antv.vision/zh)
 
@@ -503,9 +548,25 @@
 
 
 ## 其他
-
+- [readme生成](https://readme.so/editor)
+- [Kuromoji 日语分词](https://www.atilika.org/kuromoji/)
 - [.gitignore生成 ](https://www.toptal.com/developers/gitignore)
 - [VIP在线视频解析](http://tool.liumingye.cn/video/)
 - [m3u8在线播放](http://tool.liumingye.cn/m3u8/)
 - [在线影视](https://lab.liumingye.cn/)
 - [常用音效](https://taira-komori.jpn.org/freesoundcn.html)
+- [flightradar24 全球航班数据](https://www.flightradar24.com/)
+- [外网ip查询](https://www.whatismyip.com.tw/cn/)
+- [github图标生成](https://shields.io/)
+
+## 下载
+
+- [loadbt磁力离线下载](https://www.loadbt.com/files)
+- [hotbox在线下载服务](https://www.hotbox.fun/streaming)
+ 
+## 开发者
+- [源代码加速 GitHub/Gist/Bitbucket/GitLab/sourcehut](https://raw.githack.com/)
+- [px/rpx互转工具](http://allan5.com/px2rpx/)
+- [腾讯代码规范](https://tgideas.qq.com/doc/frontend/)
+- [css选择器](https://blog.csdn.net/weixin_34375233/article/details/89656172)
+- [在线代码转换工具](https://codebeautify.org/)
